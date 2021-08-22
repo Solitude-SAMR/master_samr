@@ -1,0 +1,5 @@
+https://github.com/Solitude-SAMR/osl_simulator.git
+https://github.com/Solitude-SAMR/bluerov2.git
+https://github.com/Solitude-SAMR/osl_worlds.git
+https://github.com/Solitude-SAMR/projection.git
+https://github.com/Solitude-SAMR/osl_network.git
