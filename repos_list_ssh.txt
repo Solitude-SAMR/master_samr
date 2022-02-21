@@ -1,7 +1,5 @@
-git@github.com:Solitude-SAMR/bluerov2.git
-git@github.com:Solitude-SAMR/osl_rlearning.git
 git@github.com:Solitude-SAMR/osl_simulator.git
+git@github.com:Solitude-SAMR/bluerov2.git
 git@github.com:Solitude-SAMR/osl_worlds.git
 git@github.com:Solitude-SAMR/projection.git
 git@github.com:Solitude-SAMR/osl_network.git
-
